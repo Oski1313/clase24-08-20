@@ -10,3 +10,5 @@ Ejemplo de GitHub, repositorio inicial.
 1. NO
 2. ME
 3. ACUERDO
+
+En este repositorio está trabajando una persona externa
