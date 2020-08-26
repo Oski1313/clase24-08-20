@@ -5,3 +5,8 @@ Ejemplo de GitHub, repositorio inicial.
 1. Optimización
 2. Sim. Montecarlo
 3. ED
+
+### Lista de compras
+1. NO
+2. ME
+3. ACUERDO
